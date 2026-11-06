@@ -1,0 +1,6 @@
+{
+  "name": "MarketMind Analyst",
+  "description": "Dual-engine AI Market Research Terminal with instant Pakistani market dataset and live Groq LLaMA-3 global intelligence pipeline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
